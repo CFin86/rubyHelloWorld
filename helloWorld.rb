@@ -1,5 +1,5 @@
 class Greeter
-    def initialize(name = "World")
+    def initialize(name = "Pack Health")
         @name = name
     end
     def say_hi
